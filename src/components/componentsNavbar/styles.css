@@ -1,0 +1,17 @@
+.navbarText{
+    font-family: "Montserrat-Bold" !important;
+    font-size: 100% !important;
+    text-transform: uppercase !important;
+    cursor: pointer !important;
+    color: #000 !important;
+    text-align: center !important;
+}
+.navbarText:hover{
+    color: #177b01 !important;
+}
+@media (max-width: 600px) {
+    .navbarText{
+        font-size: 70% !important;
+        text-align: center !important;
+    }
+}

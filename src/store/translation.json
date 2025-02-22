@@ -1,0 +1,14 @@
+{
+    "en": {
+      "type": "en",
+    "buttonText": "/images/spanish.svg",
+    "store":"Find Store",
+    "menu":"Menu"
+    },
+    "es": {
+      "type": "es",
+    "buttonText": "/images/Ingles.svg",
+    "store":"Encontrar Tienda",
+    "menu":"Menú"
+  }
+  }

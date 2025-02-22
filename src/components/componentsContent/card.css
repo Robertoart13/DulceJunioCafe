@@ -1,0 +1,29 @@
+.individualCardText{
+    font-family: "Montserrat-SemiBold" !important;
+    font-size: 125% !important;
+    cursor: pointer !important;
+    width: 80% !important;
+    text-align: center !important;
+}
+.individualCardTitle{
+    font-family: "Montserrat-Bold" !important;
+    font-size: 150% !important;
+    cursor: pointer !important;
+    text-align: center !important;
+
+}
+.white{
+    color: #fff !important;
+}
+.black{
+    color: #000 !important;
+}
+@media (max-width: 600px) {
+    .individualCardTitle{
+        font-size: 100% !important;
+    }
+    .individualCardText{
+        font-size: 80% !important;
+    }
+}
+
