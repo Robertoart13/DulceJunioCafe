@@ -1,14 +1,18 @@
 {
     "en": {
       "type": "en",
-    "buttonText": "/images/spanish.svg",
+    "buttonText": "SPA",
     "store":"Find Store",
-    "menu":"Menu"
+    "menu":"Menu",
+    "location":"Our Location",
+    "footer":"© 2025 Dulce junio Café. All rights reserved."
     },
     "es": {
       "type": "es",
-    "buttonText": "/images/Ingles.svg",
+    "buttonText": "EN",
     "store":"Encontrar Tienda",
-    "menu":"Menú"
+    "menu":"Menú",
+    "location":"Nuestra Ubicación",
+    "footer":"© 2025 Dulce junio Café. Todos los derechos reservados."
   }
   }

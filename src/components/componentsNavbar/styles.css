@@ -7,7 +7,20 @@
     text-align: center !important;
 }
 .navbarText:hover{
-    color: #177b01 !important;
+    color: #971545 !important;
+}
+.btnTranslate{
+    font-family: "Montserrat-Bold" !important;
+    font-size: 100% !important;
+    text-transform: uppercase !important;
+    cursor: pointer !important;
+    color: #000 !important;
+    text-align: center !important;
+}
+.btnTranslate:hover{
+    color: #971545 !important;
+    border-bottom: 1px solid #971545 !important;
+    border-radius: 0 !important;
 }
 @media (max-width: 600px) {
     .navbarText{

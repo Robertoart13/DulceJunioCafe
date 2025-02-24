@@ -1,0 +1,13 @@
+.titleLocation{
+    font-family: "Montserrat-Bold" !important;
+    font-size: 30px !important;
+    color: #000 !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+}
+@media (max-width: 600px) {
+    .titleLocation{
+        font-size: 25px !important;
+        margin-top: 25px !important;
+    }
+}
